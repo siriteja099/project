@@ -1,1 +1,1 @@
-# business card reader project
+# Business Card Reader Project
